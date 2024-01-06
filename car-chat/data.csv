@@ -1,0 +1,16 @@
+Make,Model,Year,Horsepower,Torque,Fuel Efficiency,Safety Rating,Price
+Toyota,Camry,2020,203,184,28,5,24425
+Honda,Accord,2020,192,192,30,5,24020
+Ford,Fusion,2020,181,185,23,5,23170
+Chevrolet,Malibu,2020,160,184,29,5,22140
+Nissan,Altima,2020,188,180,28,5,24100
+Hyundai,Sonata,2020,191,181,28,5,23600
+Kia,Optima,2020,185,178,27,5,23390
+Subaru,Legacy,2020,182,176,27,5,22745
+Volkswagen,Passat,2020,174,184,25,5,22995
+Mazda,Mazda6,2020,187,186,26,5,24100
+Audi,A4,2020,188,236,27,5,37900
+BMW,3 Series,2020,255,294,26,5,40500
+Mercedes-Benz,C-Class,2020,255,273,28,5,41800
+Lexus,IS,2020,241,258,21,5,38900
+Infiniti,Q50,2020,300,295,20,5,36400
